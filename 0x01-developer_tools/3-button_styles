@@ -1,0 +1,7 @@
+a.btn:nth-child(1)
+
+Unique CSS selector to identify the node on the page
+
+html body#page-top section#about.page-section.bg-primary.text-white.mb-0 div.container div.text-center.mt-4 a.btn.btn-xl.btn-outline-light
+
+Full CSS path selector.
