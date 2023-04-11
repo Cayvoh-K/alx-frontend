@@ -55,7 +55,7 @@ a:link {
 }
 
 /*visited link*/
-a:link {
+a:visited {
     font-style: italic;
 }
 
