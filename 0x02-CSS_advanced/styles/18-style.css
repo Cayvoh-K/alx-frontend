@@ -500,6 +500,7 @@ a:active {
     list-style-type: none;
     text-align: center;
 }
+
 .nav .nav-item {
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
@@ -514,6 +515,6 @@ a:active {
     padding: 0.5rem 1rem;
 }
 
-.nav .nav-link {
+.nav .nav-link:hover {
     color: var(--nav-item-link-hover);
 }
