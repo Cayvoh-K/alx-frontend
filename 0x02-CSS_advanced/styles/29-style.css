@@ -573,7 +573,7 @@ a:active {
 }
 
 .nav .nav-link::before {
-    content: '';
+    content: "";
     position: absolute;
     bottom: 0;
     left: 0;
