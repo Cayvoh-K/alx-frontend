@@ -705,7 +705,7 @@ ul.row {
     z-index: 1;
 }
 
-.card-inner .card-work:hover {
+.card-work:hover .card-inner {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
@@ -722,7 +722,7 @@ ul.row {
     padding-top: 45%;
 }
 
-.card-work .card-title {
+.card-work .card-title a {
     position: absolute;
     top: 0;
     right: 0;
@@ -731,6 +731,6 @@ ul.row {
     content: '';
 }
 
-.card-work:hover .card-title {
+.card-work:hover .card-title a::after {
     opacity: 1;
 }
